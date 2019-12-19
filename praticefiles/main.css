@@ -2,10 +2,6 @@ body{
 margin: 0px;
 background-color:teal;
 font-family: 'Montserrat', sans-serif;
-background-image: url('cyber-woman-with-corn.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
 }
 
 .logo {
@@ -21,7 +17,7 @@ text-align: center;
 
 .container {
 width: 80vw;
-min-height: 45vw;
+min-height: 25vw;
 margin: auto;
 background: lightblue;
 margin-top: 15vw;
